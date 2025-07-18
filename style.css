@@ -1,0 +1,56 @@
+p {
+    font-family: cursive;
+    color: white;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+.textSize{
+    font-size: 50px;
+    font-style: italic;
+    color: firebrick;
+}
+#temp{
+    background-color: grey
+}
+
+#marginSize{
+    margin-left: 100px;
+}
+#headerSize{
+    font-size: 100px;
+}
+article{
+    background-color: black;
+    border-radius: 20px;
+    margin: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-align: justify;
+    border-width: .5px;
+    width: 600px;
+}
+
+.priceSize{
+    font-size: 22px;
+}
+
+button{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+}
+
+button:hover{
+    background-color: crimson;
+}
+
+.cursor{
+    cursor: crosshair;
+}
